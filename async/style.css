@@ -1,0 +1,30 @@
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+#start{
+    margin: 10px;
+     padding: 12px;
+    font-size: 20px;
+    border-radius: 16px;
+    background-color: #787777;
+    color: #d4e9fb;
+}
+#stop{
+    margin: 10px;
+    padding: 12px;
+        font-size: 20px;
+        border-radius: 16px;
+        background-color: #787777;
+        color: #d4e9fb;
+}
